@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teachings | Daniel Jacobs</title>
+    <link>/teaching/</link>
+      <atom:link href="/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <description>Teachings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Teachings</title>
+      <link>/teaching/</link>
+    </image>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/teaching/index1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/index1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teaching/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/teaching/teaching/</guid>
+      <description>&lt;p&gt;I have taught five semesters of undergraduate economics at the University of Houston. Teaching has given me an opportunity to learn economics on a deeper level: one only knows they understand a concept if they can communicate it to other students.&lt;/p&gt;
+
+&lt;p&gt;In the fall of 2018, I was awarded the exceptional teacher award for receiving high evaluations from students regarding my teaching effectiveness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Classes I have taught&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1) &lt;strong&gt;Principles of Macroeconomics&lt;/strong&gt;, Summer 2018 (teaching effectiveness: 4$.$9$/$5.0)&lt;/p&gt;
+
+&lt;p&gt;2) &lt;strong&gt;Principles of Macroeconomics&lt;/strong&gt;, Spring 2018&lt;/p&gt;
+
+&lt;p&gt;3) &lt;strong&gt;Principles of Microeconomics&lt;/strong&gt;, Fall 2017&lt;/p&gt;
+
+&lt;p&gt;4) &lt;strong&gt;Intermediate Macroeconomics&lt;/strong&gt;, Summer 2017&lt;/p&gt;
+
+&lt;p&gt;5) &lt;strong&gt;Principles Macroeconomics&lt;/strong&gt;, Fall 2016&lt;/p&gt;
+
+&lt;p&gt;\underline{Teaching Assistant}&lt;/p&gt;
+
+&lt;p&gt;I have served as teaching assistant for the following courses:&lt;/p&gt;
+
+&lt;p&gt;\begin{enumerate}&lt;/p&gt;
+
+&lt;p&gt;\item {\bf{Intermediate Microeconomics}}, Professor Andrea Szabo, Fall 2015&lt;/p&gt;
+
+&lt;p&gt;\item {\bf{Applied Econometrics}}, Professor Andrea Szabo, Fall 2015&lt;/p&gt;
+
+&lt;p&gt;\item {\bf{Macroeconomic Principles and Money,  Banking and Financial Markets}}, Professor Polly Hardee, Spring 2015&lt;/p&gt;
+
+&lt;p&gt;\item {\bf{Macroeconomic Principles and Money,  Banking and Financial Markets}}, Professor Polly Hardee, Fall 2014&lt;/p&gt;
+
+&lt;p&gt;\end{enumerate}&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

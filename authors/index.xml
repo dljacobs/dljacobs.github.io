@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Daniel Jacobs</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Hi, welcome to my page!&lt;/p&gt;
+
+&lt;p&gt;My name is Daniel Jacobs and I am currently a Ph.D. candidate in Economics at the University of Houston.&lt;/p&gt;
+
+&lt;p&gt;My research interests include Household Finance and Macroeconomics. I am particularly interested in how individuals decide to acquire financial skills in order to manage their household finances. In my job market paper, I explore the effect of interest rate uncertainty on the decision to invest in financial literacy and evaluate policies that may support financial literacy acquistion.&lt;/p&gt;
+
+&lt;p&gt;In addition to research, I have had a wonderful experience teaching economics at the University of Houston. I have taught Principles of Macroeconomics, Principles of Microeconomics and Intermediate Macroeconomics at the undergraduate level. Due to the high student evaluations of my teaching effectiveness, I was awarded the department&amp;rsquo;s Graduate Student Teaching Award in 2018.&lt;/p&gt;
+
+&lt;p&gt;I will be attending the AEA meeting in San Diego between January 2nd-5th, 2020.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/files/CV.pdf&#34;&gt;Download my CV&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
