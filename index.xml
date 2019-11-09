@@ -106,11 +106,16 @@
     </item>
     
     <item>
-      <title>Credit Shocks and Financial Literacy Accumulation</title>
-      <link>/publication/preprint/jmp/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/jmp/</guid>
-      <description></description>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Credit Shocks and Financial Literacy Accumulation&lt;/strong&gt;
+(Job Market Paper)
+&lt;a href=&#34;/files/JMP.pdf&#34;&gt; Download the Paper &lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;margin-left:0%; margin-right:-10%;&#34;&gt;Do adverse borrowing conditions induce financial literacy accumulation? I calibrate a life cycle model with financial literacy investment and borrowing rate uncertainty to the American Life Panel. When households expect borrowing rates to vary often, they invest in financial literacy to insure against borrowing rate variation. I evaluate the effect of two popular policies developed to ameliorate the effects of low financial literacy$-$an interest rate cap and a financial literacy subsidy. I find that an interest rate cap discourages financial literacy accumulation, while a subsidy of 10% of the cost of investment leads households to increase their savings return by three basis points. In particular, the subsidy improves the welfare of low-income, highly leveraged households, by 0.2-0.25%.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -795,9 +800,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title></title>
-      <link>/publication/conference-paper/</link>
+      <link>/research/conference-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>/research/conference-paper/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
@@ -1247,9 +1252,9 @@ $(document).ready(function () {
     
     <item>
       <title></title>
-      <link>/publication/journal-article/</link>
+      <link>/research/journal-article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
+      <guid>/research/journal-article/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
@@ -1706,29 +1711,33 @@ $(document).ready(function () {
 
 &lt;p&gt;In the fall of 2018, I was awarded the exceptional teacher award by the University of Houston Department of Economics for receiving high teacher evaluations from my students.&lt;/p&gt;
 
+&lt;p&gt;For evidence of my teaching effectiveness, &lt;a href=&#34;/files/Teach_effect.pdf&#34;&gt;here.&lt;/a&gt;
+My complete teaching evaluation record, can be found &lt;a href=&#34;/files/Teaching_Evaluations.pdf&#34;&gt; here &lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;&lt;u&gt;Classes I have taught&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;1) &lt;strong&gt;Principles of Macroeconomics&lt;/strong&gt;, Summer 2018 (teaching effectiveness: 4$.$9$/$5.0)&lt;/p&gt;
+&lt;p style=&#34;margin-left:0%; margin-right:-10%;&#34;&gt;1. &lt;strong&gt;Principles of Macroeconomics&lt;/strong&gt;, Summer 2018 (teaching effectiveness: 4$.$9$/$5.0) &lt;/p&gt;
 
-&lt;p&gt;2) &lt;strong&gt;Principles of Macroeconomics&lt;/strong&gt;, Spring 2018 (teaching effectiveness: 4$.$3$/$5.0)&lt;/p&gt;
+&lt;p style=&#34;margin-left:0%; margin-right:-10%;&#34;&gt;2. &lt;strong&gt;Principles of Macroeconomics&lt;/strong&gt;, Spring 2018 (teaching effectiveness: 4$.$3$/$5.0)&lt;/p&gt;
 
-&lt;p&gt;3) &lt;strong&gt;Principles of Microeconomics&lt;/strong&gt;, Fall 2017&lt;/p&gt;
+&lt;p&gt;3. &lt;strong&gt;Principles of Microeconomics&lt;/strong&gt;, Fall 2017  &lt;/p&gt;
 
-&lt;p&gt;4) &lt;strong&gt;Intermediate Macroeconomics&lt;/strong&gt;, Summer 2017 (teaching effectiveness: 4$.$5$/$5.0)&lt;/p&gt;
+&lt;p style=&#34;margin-left:0%; margin-right:-10%;&#34;&gt;4. &lt;strong&gt;Intermediate Macroeconomics&lt;/strong&gt;, Summer 2017 (teaching effectiveness: 4$.$5$/$5.0)&lt;/p&gt;
+  
 
-&lt;p&gt;5) &lt;strong&gt;Principles Macroeconomics&lt;/strong&gt;, Fall 2016&lt;/p&gt;
+&lt;p style=&#34;margin-left:0%; margin-right:-10%;&#34;&gt;5. &lt;strong&gt;Principles Macroeconomics&lt;/strong&gt;, Fall 2016 &lt;/p&gt;
 
 &lt;p&gt;&lt;u&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
 
 &lt;p&gt;I have served as teaching assistant for the following courses:&lt;/p&gt;
 
-&lt;p&gt;1) Intermediate Microeconomics, Professor Andrea Szabo, Fall 2015&lt;/p&gt;
+&lt;p&gt;1. Intermediate Microeconomics, Professor Andrea Szabo, Fall 2015&lt;/p&gt;
 
-&lt;p&gt;2) Applied Econometrics Professor Andrea Szabo, Fall 2015&lt;/p&gt;
+&lt;p&gt;2. Applied Econometrics Professor Andrea Szabo, Fall 2015&lt;/p&gt;
 
-&lt;p&gt;3) Macroeconomic Principles and Money,  Banking and Financial Markets, Professor Polly Hardee, Spring 2015&lt;/p&gt;
+&lt;p&gt;3. Macroeconomic Principles and Money,  Banking and Financial Markets, &lt;br&gt;Professor Polly Hardee, Spring 2015&lt;/br&gt;&lt;/p&gt;
 
-&lt;p&gt;4) Macroeconomic Principles and Money,  Banking and Financial Markets, Professor Polly Hardee, Fall 2014&lt;/p&gt;
+&lt;p&gt;4. Macroeconomic Principles and Money,  Banking and Financial Markets, &lt;br&gt;Professor Polly Hardee, Fall 2014&lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     

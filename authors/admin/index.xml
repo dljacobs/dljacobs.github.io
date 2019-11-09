@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Jacobs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Daniel Jacobs</title>
@@ -13,11 +13,16 @@
     </image>
     
     <item>
-      <title>Credit Shocks and Financial Literacy Accumulation</title>
-      <link>/publication/preprint/jmp/</link>
-      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/jmp/</guid>
-      <description></description>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/research/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Credit Shocks and Financial Literacy Accumulation&lt;/strong&gt;
+(Job Market Paper)
+&lt;a href=&#34;/files/JMP.pdf&#34;&gt; Download the Paper &lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&#34;margin-left:0%; margin-right:-10%;&#34;&gt;Do adverse borrowing conditions induce financial literacy accumulation? I calibrate a life cycle model with financial literacy investment and borrowing rate uncertainty to the American Life Panel. When households expect borrowing rates to vary often, they invest in financial literacy to insure against borrowing rate variation. I evaluate the effect of two popular policies developed to ameliorate the effects of low financial literacy$-$an interest rate cap and a financial literacy subsidy. I find that an interest rate cap discourages financial literacy accumulation, while a subsidy of 10% of the cost of investment leads households to increase their savings return by three basis points. In particular, the subsidy improves the welfare of low-income, highly leveraged households, by 0.2-0.25%.&lt;/p&gt;
+</description>
     </item>
     
     <item>
